@@ -1,0 +1,265 @@
+
+quest points (VARP[101] )
+
+unstable foundations (VARP[281], 1000)
+
+
+free 
+
+Black Knights' Fortress (VARP[130], 4)
+The Blood Pact (VARPBIT[7238], 60)
+Cook's Assistant (VARP[29], 2)
+Demon Slayer (VARPBIT[2561], 3)
+Doric's Quest (VARP[31], 100)
+Dragon Slayer  (VARP[176], 10)
+Ernest the Chicken (VARP[32], 3)
+Goblin Diplomacy (VARPBIT[2378], 6)
+Gunnar's Ground (VARPBIT[5730], 100)
+Imp Catcher (VARP[160], 2)
+The Knight's Sword (VARP[122], 7)
+Myths of the White Lands (VARPBIT[5733], 60)
+Pirate's Treasure (VARP[71], 4)
+Prince Ali Rescue (VARP[273], 110)
+The Restless Ghost (VARP[107], 5)
+Rune Mysteries (VARP[63], 6)
+Shield of Arrav (VARP[145], 7, VARP[146], 4)
+Swept Away (VARPBIT[5448], 50)
+Vampyre Slayer (VARPBIT[6914], 3)
+
+
+
+members
+
+All Fired Up (VARPBIT[5133], 90)
+Animal Magnetism (VARPBIT[3185], 240)
+Another Slice of H.A.M. (VARPBIT[3550], 11)
+As a First Resort (VARPBIT[4321], 10, 200)
+Back to my Roots (VARPBIT[4055], 65)
+Between a Rock (VARPBIT[299], 110)
+Big Chompy Bird Hunting (VARP[293], 65)
+Biohazard (VARP[68], 16)
+Blood Runs Deep (VARPBIT[6883], 3, 147)
+Buyers and Cellars (VARPBIT[7793], 30)
+Cabin Fever (VARP[655], 140)
+Catapult Construction (VARPBIT[4396], 60)
+The Chosen Commander (VARPBIT[1938], 110)
+Clock Tower (VARP[10], 8)
+Cold War (VARPBIT[3293], 135)
+Contact! (VARPBIT[3274], 130)
+
+
+Creature of Fenkenstrain
+case 26:
+			if (VARP[399] > 6) {
+				return 2;
+			}
+			if (VARP[399] == 0 && VARPBIT[203] == 0) {
+				return 0;
+			}
+			return 1;
+
+
+
+
+The Curse of Arrav (VARPBIT[6289], 240)
+Darkness of Hallowvale (VARPBIT[2573], 320)
+Dealing with Scabaras (VARPBIT[4230], 700)
+Death Plateau (VARP[314], 80)
+Death to the Dorgeshuun (VARPBIT[2258], 13
+Defender of Varrock (VARPBIT[5387], 250)
+Desert Treasure (VARPBIT[358], 15)
+Devious Minds (VARPBIT[1465], 80)
+The Dig Site (VARP[131], 9)
+Do No Evil VARPBIT[8605], 10, 315)
+Dream Mentor (VARPBIT[3618], 28)
+Druidic Ritual (VARP[80], 4)
+Dwarf Cannon (VARP[0], 11)
+Eadgar's Ruse (VARP[335], 110)
+Eagles' Peak (VARPBIT[2780], 40)
+
+
+
+Elemental Workshop I
+
+something todo with varp 299
+case 37:
+			if (isBitFlagged(VARP[299], 20)) {
+				return 2;
+			}
+			if (isBitFlagged(VARP[299], 1)) {
+				return 1;
+			}
+			return 0;
+			
+VarBitDefinition(id=2056, index=299, leastSignificantBit=1, mostSignificantBit=1) starts quest
+VarBitDefinition(id=2057, index=299, leastSignificantBit=2, mostSignificantBit=2)
+VarBitDefinition(id=2058, index=299, leastSignificantBit=3, mostSignificantBit=3)
+VarBitDefinition(id=2059, index=299, leastSignificantBit=4, mostSignificantBit=4)
+VarBitDefinition(id=2060, index=299, leastSignificantBit=5, mostSignificantBit=5)
+VarBitDefinition(id=2061, index=299, leastSignificantBit=6, mostSignificantBit=6)
+VarBitDefinition(id=2062, index=299, leastSignificantBit=7, mostSignificantBit=7)
+VarBitDefinition(id=2063, index=299, leastSignificantBit=9, mostSignificantBit=9)
+VarBitDefinition(id=2064, index=299, leastSignificantBit=10, mostSignificantBit=12)
+VarBitDefinition(id=2065, index=299, leastSignificantBit=13, mostSignificantBit=13)
+VarBitDefinition(id=2066, index=299, leastSignificantBit=14, mostSignificantBit=14)
+VarBitDefinition(id=2067, index=299, leastSignificantBit=20, mostSignificantBit=20) finish quest
+
+
+
+
+Elemental Workshop II (VARPBIT[2639], 11)
+Elemental Workshop III (VARPBIT[7871], 5)
+Enakhra's Lament (VARPBIT[1560], 70)
+Enlightened Journey (VARPBIT[2866], 200)
+The Eyes of Glouphrie (VARPBIT[2497], 60)
+A Fairy Tale I - Growing Pains (VARPBIT[1803], 90)
+A Fairy Tale II - Cure a Queen (VARPBIT[2326], 90)
+A Fairy Tale III - Battle at Ork's Rift (VARPBIT[7826], 10, 180)
+Family Crest (VARP[148], 11)
+The Feud (VARPBIT[334], 28)
+Fight Arena (VARP[17], 14)
+Fishing Contest (VARP[11], 5)
+Forgettable Tale of a Drunken Dwarf (VARPBIT[822], 140)
+Forgiveness of a Chaos Dwarf (VARPBIT[6471], 90)
+The Fremennik Isles (VARPBIT[3311], 340)
+The Fremennik Trials (VARP[347], 10)
+Fur 'n Seek (VARPBIT[6307], 2, 5)
+Garden of Tranquillity (VARPBIT[961], 60)
+Gertrude's Cat (VARP[180], 6)
+Ghosts Ahoy (VARPBIT[217], 8)
+The Giant Dwarf (VARPBIT[571], 50)
+Glorious Memories (VARPBIT[6001], 3, 45)
+The Golem (VARPBIT[346], 10)
+The Grand Tree (VARP[150], 160)
+The Great Brain Robbery (VARP[980], 130)
+Grim Tales (VARPBIT[2783], 60)
+The Hand in the Sand (VARPBIT[1527], 160)
+Haunted Mine (VARP[382], 11)
+Hazeel Cult (VARP[223], 9)
+Heroes' Quest (VARP[188], 15)
+Holy Grail (VARP[5], 10)
+Horror from the Deep (VARPBIT[34], 10)
+Hunt for Red Raktuber (VARPBIT[6180], 2, 140)
+Icthlarin's Little Helper (VARPBIT[418], 26)
+In Aid of the Myreque (VARPBIT[1990], 430)
+In Pyre Need (VARPBIT[5761], 30)
+In Search of the Myreque (VARP[387], 105)
+Jungle Potion (VARP[175], 12)
+Kennith's Concerns (VARPBIT[4505], 100)
+King of the Dwarves (VARPBIT[8704], 90)
+King's Ransom (VARPBIT[3888], 90)
+Land of the Goblins (VARPBIT[4105], 18)
+Legacy of Seergaze (VARPBIT[4569], 500)
+Legends' Quest (VARP[139], 75)
+Lost City (VARP[147], 6)
+The Lost Tribe (VARPBIT[532], 11)
+Love Story (VARPBIT[8045], 150)
+Lunar Diplomacy (VARPBIT[2448], 190)
+Making History (VARPBIT[1383], 4)
+Meeting History (VARPBIT[5075], 20)
+Merlin's Crystal (VARP[14], 7)
+Missing My Mummy (VARPBIT[6112], 60)
+Monk's Friend (VARP[30], 80)
+Monkey Madness (VARP[365], 9)
+Mountain Daughter (VARPBIT[260], 70)
+Mourning's End Part I (VARP[517], 8)
+Mourning's End Part II (VARPBIT[1103], 9, 60)
+Murder Mystery (VARP[192], 2)
+My Arm's Big Adventure (VARPBIT[2790], 320)
+Nature Spirit (VARP[307], 110)
+Nomad's Requiem (VARPBIT[6962], 12)
+Observatory Quest (VARP[112], 7)
+Olaf's Quest (VARPBIT[3534], 80)
+One Small Favour (VARP[416], 280)
+The Path of Glouphrie (VARPBIT[3954], 200)
+Perils of Ice Mountain (VARPBIT[4684], 150)
+Plague City (VARP[165], 29)
+Priest in Peril (VARP[302], 60)
+Quiet Before the Swarm (VARPBIT[7958], 90)
+Rag and Bone Man (VARPBIT[6178], 4)
+RatCatchers (VARPBIT[1404], 127)
+Recipe for Disaster (VARPBIT[1850], 5)
+Recruitment Drive (VARPBIT[657], 2)
+Regicide (VARP[328], 15)
+Rocking Out (VARPBIT[4797], 100)
+Roving Elves (VARP[402], 6)
+Royal Trouble (VARPBIT[2140], 30)
+Rum Deal (VARP[600], 19)
+Rune Mechanics (VARPBIT[7050], 35)
+Scorpion Catcher (VARP[76], 6)
+Sea Slug (VARP[159], 12)
+Shades of Mort'ton (VARP[339], 85)
+Shadow of the Storm (VARPBIT[1372], 125)
+Sheep Herder (VARP[60], 3)
+Shilo Village (VARP[116], 15)
+The Slug Menace (VARPBIT[2610], 14)
+Smoking Kills (VARPBIT[4764], 250)
+A Soul's Bane (VARPBIT[2011], 13)
+Spirit of Summer (VARPBIT[5032], 80)
+Spirits of the Elid (VARPBIT[1444], 60)
+Summer's End (VARPBIT[5331], 35)
+Swan Song (VARPBIT[2098], 200)
+Tai Bwo Wannai Trio (VARP[320], 3, 6)
+A Tail of Two Cats (VARPBIT[1028], 70)
+The Tale of the Muspah (VARPBIT[6048], 10, 250)
+Tears of Guthix (VARPBIT[451], 2)
+The Temple at Senntisten (VARPBIT[6775], 90)
+Temple of Ikov (VARP[26], 80)
+Throne of Miscellania (VARP[359], 100)
+TokTz-Ket-Dill (VARPBIT[4700], 63)
+The Tourist Trap (VARP[197], 30)
+Tower of Life (VARPBIT[3337], 18)
+Tree Gnome Village (VARP[111], 9)
+Tribal Totem (VARP[200], 5)
+Troll Romance (VARP[385], 45)
+Troll Stronghold (VARP[317], 50)
+
+
+
+
+Underground Pass
+
+case 114:
+			if (VARP[161] == 10) {
+				return 2;
+			}
+			if (isBitFlagged(VARP[162], 11)) {
+				return 1;
+			}
+			return 0;
+VarBitDefinition(id=2522, index=162, leastSignificantBit=1, mostSignificantBit=1)
+VarBitDefinition(id=2523, index=162, leastSignificantBit=2, mostSignificantBit=2)
+VarBitDefinition(id=2524, index=162, leastSignificantBit=3, mostSignificantBit=3)
+VarBitDefinition(id=2525, index=162, leastSignificantBit=4, mostSignificantBit=4)
+VarBitDefinition(id=2526, index=162, leastSignificantBit=5, mostSignificantBit=5)
+VarBitDefinition(id=2527, index=162, leastSignificantBit=6, mostSignificantBit=6)
+VarBitDefinition(id=2528, index=162, leastSignificantBit=7, mostSignificantBit=7)
+VarBitDefinition(id=2529, index=162, leastSignificantBit=8, mostSignificantBit=8)
+VarBitDefinition(id=2530, index=162, leastSignificantBit=9, mostSignificantBit=9)
+VarBitDefinition(id=2531, index=162, leastSignificantBit=10, mostSignificantBit=10)
+VarBitDefinition(id=2532, index=162, leastSignificantBit=11, mostSignificantBit=11)
+VarBitDefinition(id=2533, index=162, leastSignificantBit=12, mostSignificantBit=12)
+VarBitDefinition(id=2534, index=162, leastSignificantBit=13, mostSignificantBit=13)
+VarBitDefinition(id=2535, index=162, leastSignificantBit=14, mostSignificantBit=14)
+VarBitDefinition(id=2536, index=162, leastSignificantBit=15, mostSignificantBit=15)
+VarBitDefinition(id=2537, index=162, leastSignificantBit=16, mostSignificantBit=16)
+VarBitDefinition(id=2538, index=162, leastSignificantBit=17, mostSignificantBit=17)
+VarBitDefinition(id=4852, index=162, leastSignificantBit=18, mostSignificantBit=18)
+VarBitDefinition(id=4853, index=162, leastSignificantBit=19, mostSignificantBit=19)
+VarBitDefinition(id=4854, index=162, leastSignificantBit=21, mostSignificantBit=21)
+VarBitDefinition(id=4855, index=162, leastSignificantBit=22, mostSignificantBit=22)
+VarBitDefinition(id=4856, index=162, leastSignificantBit=23, mostSignificantBit=23)
+
+
+A Void Dance (VARPBIT[7451], 2, 63)
+The Void Stares Back (VARPBIT[8248], 40)
+Wanted! (VARPBIT[1051], 11)
+Watchtower (VARP[212], 13)
+Waterfall Quest (VARP[65], 10)
+What Lies Below (VARPBIT[3523], 150)
+While Guthix Sleeps (VARPBIT[5491], 910)
+Witch's House (VARP[226], 7)
+Within the Light (VARPBIT[6553], 46)
+Wolf Whistle (VARPBIT[4302], 110)
+Zogre Flesh Eaters (VARPBIT[487], 14)
+
