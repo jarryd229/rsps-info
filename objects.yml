@@ -97,6 +97,9 @@ cooking_range_lumbridge_castle:
 door_11_closed:
   id: 131
   examine: "The door is closed."
+fountain:
+  id: 153
+  examine: "An ornate fountain."  
 coffin:
   id: 158
   examine: "I wonder what's inside it?"
@@ -198,6 +201,12 @@ flagpole_3:
 flagpole_4:
   id: 869
   examine: "A flag flies here."
+fountain_2:
+  id: 879
+  examine: "Everyone needs a water feature."
+fountain_3:
+  id: 880
+  examine: "A beautiful water feature."  
 gate_17_closed:
   id: 883
   examine: "A wooden gate."
@@ -246,6 +255,18 @@ potted_fern_3:
 potted_fern_4:
   id: 1155
   examine: "Better than weeding."
+small_fern:
+  id: 1173
+  examine: "A commonly found fern."
+heather:
+  id: 1178
+  examine: "Smells lovely!"
+heather_2:
+  id: 1179
+  examine: "Who is this Heather girl?"
+heather_3:
+  id: 1180
+  examine: "I wonder why it's purple?"
 door_27_opened:
   id: 1240
   examine: "The door is open."
@@ -319,6 +340,15 @@ dead_tree_9:
   id: 1291
   copy: tree
   examine: "It's only useful for firewood now."
+fern:
+  id: 1298
+  examine: "A commonly found fern."
+fern_2:
+  id: 1299
+  examine: "Is this a weed?"
+fern_3:
+  id: 1300
+  examine: "A fern is growing here."
 magic_tree:
   id: 1306
   woodcutting:
@@ -1477,6 +1507,9 @@ potters_wheel:
 guild_door_2_closed:
   id: 2647
   examine: "The door to the Crafting Guild."
+sinclair_family_fountain:
+  id: 2654
+  examine: "This fountain suits the garden."  
 gate_64_closed:
   id: 2673
   examine: "A solid looking gate."
@@ -1534,6 +1567,9 @@ door_83_closed:
 door_84_closed:
   id: 2863
   examine: "Trespassers will be stored."
+fountain_4:
+  id: 2864
+  examine: "For all your witch-melting needs."  
 gate_70_closed:
   id: 2865
   examine: "This space reserved for a shockingly bad pun."
@@ -2222,6 +2258,27 @@ door_148_closed:
   examine: "Stops people getting out."
 door_489_opened:
   id: 5502
+heather_4:
+  id: 5543
+  examine: "Isn't Heather a girls' name?"
+heather_5:
+  id: 5544
+  examine: "Smells lovely!"
+heather_6:
+  id: 5545
+  examine: "Who is this Heather girl?"
+heather_7:
+  id: 5546
+  examine: "A purple haze of delight."
+heather_8:
+  id: 5547
+  examine: "The colour purple on stems."
+heather_9:
+  id: 5548
+  examine: "I ponder... Why is it purple?"
+heather_10:
+  id: 5549
+  examine: "I wonder why it's purple?"
 willow:
   id: 5551
   woodcutting:
@@ -2473,6 +2530,9 @@ chair_23:
 dead_tree_3_stump:
   id: 6212
   examine: "This tree has been cut down."
+fountain_5:
+  id: 6232
+  examine: "An expensive water feature."  
 pillar_12:
   id: 6284
   examine: "Weird looking pillar."
@@ -3165,6 +3225,12 @@ door_234_closed:
   examine: "A wooden door."
 door_234_opened:
   id: 10432
+fountain_6:
+  id: 10436
+  examine: "Nardah's main water supply."
+fountain_7:
+  id: 10437
+  examine: "There's no water here."  
 chair_35:
   id: 10491
   examine: "The ideal thing to sit on."
@@ -3310,6 +3376,9 @@ clay_rocks_quarry_2:
   id: 10949
   copy: clay_rocks_old_1
   examine: "A rocky outcrop."
+fountain_8:
+  id: 11007
+  examine: "This fountain is frozen solid."
 door_239_closed:
   id: 11051
   examine: "There's a recess in it in the shape of a Z."
@@ -3656,6 +3725,9 @@ castle_door_6_opened:
 castle_door_8:
   id: 11723
   examine: "A grand door."
+fountain_9:
+  id: 11759
+  examine: "Hope springs eternal."  
 chair_41:
   id: 11760
   examine: "A comfortable seat."
@@ -3902,6 +3974,9 @@ magic_door_2_opened:
 magic_door_3:
   id: 12046
   examine: "A magic door."
+fairy_fountain:
+  id: 12089
+  examine: "A beautiful fairy fountain!"  
 juliet:
   id: 12133
   examine: "Probably not dead. Although Romeo is none the wiser."
@@ -4287,7 +4362,25 @@ dead_tree_20:
   examine: "One of the most common trees in Gielinor." 
 dead_tree_21:
   id: 13418
-  examine: "A spooky addition to the garden."  
+  examine: "A spooky addition to the garden."
+fern_4:
+  id: 13425
+  examine: "A plant."  
+small_fern_:2:
+  id: 13432
+  examine: "A plant."
+fern_5:
+  id: 13433
+  examine: "A plant."  
+small fountain:
+  id: 13478
+  examine: "Like a tiny private waterfall."
+large_fountain:
+  id: 13479
+  examine: "A sculpture of flowing water."
+ornamental_fountain:
+  id: 13480
+  examine: "Two little fishes forever spew water into the pond."  
 chair_53:
   id: 13581
   examine: "It's not the best chair but you think it would take your weight."
@@ -4309,6 +4402,9 @@ chair_58:
 chair_59:
   id: 13587
   examine: "A comfortable seat."
+infernal_chart:
+  id: 13664
+  examine: "A spotter's guide to demons."
 chair_60:
   id: 14050
   examine: "For sitting."
@@ -5341,6 +5437,12 @@ depleted_rocks_tourist_trap_5_3:
 candles_entrana:
   id: 19127
   examine: "Lit to remember the souls of the departed."
+fern_6:
+  id: 19839
+  examine: "The almost fractal style of these plants is fascinating."  
+fern_7:
+  id: 19840
+  examine: "Some kind of low-lying jungle fern."  
 chair_83:
   id: 19929
   examine: "A busted chair."
@@ -5734,6 +5836,9 @@ gate_158:
 chair_89:
   id: 21607
   examine: "A chair made from stone."
+fountain_10:
+  id: 21764
+  examine: "A beautiful fountain."  
 crack_8:
   id: 21800
   examine: "A crack in the wall."
@@ -5799,6 +5904,24 @@ gate_164_opened:
 gate_164_closed:
   id: 22779
   examine: "Keeps the littlest goblins in their enclosure."
+fern_8:
+  id: 22804
+  examine: "An albino fern."
+fern_9:
+  id: 22805
+  examine: "A subterranean fern."
+fern_10:
+  id: 22806
+  examine: "How does this plant photosynthesise?"
+fern_11:
+  id: 22807
+  examine: "How does this plant photosynthesise?"
+flowering_fern:
+  id: 22808
+  examine: "This plant is flowering."
+flowering_fern_2:
+  id: 22809
+  examine: "It has a seed pod."  
 chair_95:
   id: 22843
   examine: "A very well-made chair."
@@ -5820,6 +5943,9 @@ door_433_opened:
 door_433_closed:
   id: 22921
   examine: "The door is closed."
+fountain_11:
+  id: 22973
+  examine: "A pretty water feature."  
 dead_tree_9_stump:
   id: 23054
   examine: "This tree has been cut down."
@@ -5877,6 +6003,9 @@ gate_168_opened:
 gate_170:
   id: 23919
   examine: "A wooden gate."
+fountain_12:
+  id: 24161
+  examine: "A pretty water feature."  
 dying_tree:
   id: 24168
   copy: tree
@@ -5884,6 +6013,11 @@ dying_tree:
 dying_tree_stump:
   id: 24169
   examine: "Count the rings and see how long it lived."
+fountain_13:
+  id: 24214
+  examine: "A pretty fountain."
+fountain_14:
+  id: 24265  
 chair_97:
   id: 24304
   examine: "A comfortable seat."
@@ -6083,6 +6217,24 @@ pillar_54:
 pillar_55:
   id: 25153
   examine: "A tall pillar."
+fern_12:
+  id: 25175
+  examine: "A fern."
+fern_13:
+  id: 25176
+  examine: "A fern."
+fern_14:
+  id: 25177
+  examine: "A fern."
+fern_15:
+  id: 25178
+  examine: "How does the plant photosynthesise?"
+flowering_fern_3:
+  id: 25179
+  examine: "The plant is flowering."
+flowering_fern_4:
+  id: 25180
+  examine: "It has a seed pod."  
 mithril_rocks_ancient_cavern_1:
   id: 25368
   examine: "A rocky outcrop."
@@ -6165,6 +6317,9 @@ chair_104:
 chair_105:
   id: 25784
   examine: "A comfortable seat."
+fern_16:
+  id: 52787
+  examine: "A plant."  
 large_door_73_closed:
   id: 25788
   examine: "A large double door."
@@ -6543,6 +6698,9 @@ pillar_58:
 pillar_59:
   id: 28655
   examine: "Holds up the roof."
+fountain_15:
+  id: 28662
+  examine: "A pretty water feature."  
 trapdoor_83_closed:
   id: 28675
   examine: "Where does it go?"
@@ -6783,6 +6941,8 @@ chair_120:
 chair_121:
   id: 30080
   examine: "Must be very sturdy to stand up to the weight."
+fountain_16:
+  id: 30223  
 corpse_46:
   id: 30278
   examine: "He looks very relaxed."
@@ -6847,6 +7007,9 @@ candles_17:
 candles_18:
   id: 30753
   examine: "Scary lighting apparatus."
+fountain_17:
+  id: 30820
+  examine: "A pretty water feature."  
 door_525_closed:
   id: 30864
   examine: "A nicely-fitted door."
@@ -7411,6 +7574,12 @@ depleted_rocks_asgarnian_ice_2:
 candles_19:
   id: 33230
   examine: "It's amazing what bees produce!"
+fountain_18:
+  id: 33364
+  examine: "A strange hole in the wall."
+fountain_19:
+  id: 33374
+  examine: "A strange hole in the wall."  
 pillar_67:
   id: 33398
   examine: "A brick pillar."
@@ -7482,6 +7651,9 @@ door_575_opened:
 door_575_closed:
   id: 34354
   examine: "The door is closed."
+fountain_20:
+  id: 34579
+  examine: "A pretty water feature."
 candles_20:
   id: 34615
   examine: "Lit to remember the souls of the departed."
@@ -7596,6 +7768,9 @@ jail_door_8_closed:
 chair_131:
   id: 35451
   examine: "A well-made chair."
+carved_fountain:
+  id: 35469
+  examine: "Conspicuous consumption of water."  
 cell_door_14_closed:
   id: 35540
   examine: "This looks sturdier than the rest of the building."
@@ -7707,6 +7882,9 @@ door_622_opened:
 door_624:
   id: 36649
   examine: "A heavy door of dark wood."
+fountain_of_heroes:
+  id: 36695
+  examine: "A source of pure water."  
 pillar_71:
   id: 36698
   examine: "An old crumbled pillar."
@@ -7731,6 +7909,9 @@ pillar_72:
 rope_swing_3:
   id: 36746
   examine: "An odd-looking rock with a rope tied to it."
+fountain_21:
+  id: 36781
+  examine: "A pretty water feature."  
 chair_133:
   id: 36783
   examine: "A chair, fit for a king."
@@ -8529,6 +8710,9 @@ cell_door_20_opened:
   examine: "Stops people getting out."
 chair_142:
   id: 41431
+fountain_22:
+  id: 41448
+  examine: "A pretty water feature."  
 door_683:
   id: 41463
   examine: "The door is open."
@@ -9219,6 +9403,8 @@ chair_173:
 chair_174:
   id: 47618
   examine: "A basic chair."
+fountain_23:
+  id: 47662  
 chair_175:
   id: 47663
   examine: "A basic chair."
@@ -9243,6 +9429,9 @@ chair_181:
 chair_182:
   id: 47703
   examine: "A posh chair."
+fountain_24:
+  id: 47747
+  examine: "The water looks VERY cold!"  
 chair_183:
   id: 47883
   examine: "A stern wooden chair."
@@ -9319,6 +9508,24 @@ chair_186:
 chair_187:
   id: 49329
   examine: "It will likely stop me from sliding."
+fountain_25:
+  id: 49354
+  examine: "A strange hole in the wall.."
+fountain_26:
+  id: 49355
+  examine: "A strange hole in the wall."
+fountain_27:
+  id: 49356
+  examine: "A strange hole in the wall."
+fountain_28:
+  id: 49357
+  examine: "A strange hole in the wall."
+fountain_29:
+  id: 49358
+  examine: "A strange hole in the wall."
+fountain_30:
+  id: 49359
+  examine: "A strange hole in the wall."
 locked_door_13_closed:
   id: 49600
   examine: "A locked fence door."
@@ -9653,6 +9860,9 @@ door_883_opened:
 door_883_closed:
   id: 52474
   examine: "It's quite small."
+fountain_31:
+  id: 52568
+  examine: "Flowing water."  
 pillar_110:
   id: 52571
   examine: "An old, crumbled pillar."
@@ -9680,6 +9890,15 @@ door_889:
 dead_tree_41: 
   id: 52786  
   examine: "It makes this place look very sad."
+small_fern_:3:
+  id: 52794
+  examine: "A plant."  
+fern_17:
+  id: 52795
+  examine: "A plant."  
+ornamental_fountain_2:
+  id: 52800
+  examine: "Two little fishes forever spew water into the pond."  
 tangle_gum_tree_4:
   id: 53751
   examine: "It's some kind of subterranean tree. (Tier 1)"
@@ -9766,6 +9985,12 @@ pillar_122:
 pillar_123:
   id: 54129
   examine: "A stone pillar."
+fountain_32:
+  id: 54410
+  examine: "A strange hole in the wall."
+fountain_33:
+  id: 54411
+  examine: "A strange hole in the wall."  
 candle_15:
   id: 54435
   examine: "A candle."
